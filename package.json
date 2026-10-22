@@ -1,0 +1,13 @@
+{
+  "name": "wa-popup-api",
+  "version": "1.0.0",
+  "description": "WhatsApp popup API server untuk Pterodactyl",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^7.0.0-rc14",
+    "pino": "^8.17.2"
+  }
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "type": "richtext",
+    "file": "slof.js",
+    "description": "Kirim WhatsApp rich text HTML popup"
+  },
+  {
+    "type": "anu",
+    "file": "agus.js",
+    "description": "Contoh function custom"
+  },
+  {
+    "type": "shifter",
+    "file": "shifter.js",
+    "description": "Combo agus + agus2 x10"
+  }
+]
